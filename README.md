@@ -8,7 +8,7 @@
 <img width="1440" height="755" alt="Screenshot 2026-02-12 at 12 26 33 AM" src="https://github.com/user-attachments/assets/ebe7fd1a-cfc5-47e6-b225-1615cc2baa3d" />
 
 
-- [Demo Project]()
+- [Demo Project](https://shalizsharafi.github.io/PhotoWebsite/)
 
 - Developed by Shaliz Sharafi
 
